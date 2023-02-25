@@ -1,0 +1,17 @@
+[user]
+	name = N1koge
+	email = rmrf.mc.npro.6672@gmail.com
+
+[github]
+  user = "N1koge"
+
+[core]
+  sshCommand = "ssh -i ~/.ssh/github"
+
+[pull]
+	rebase = false
+	ff = only
+[core]
+	autocrlf = input
+[init]
+	defaultBranch = main

@@ -23,6 +23,7 @@
 
 !.config/nvim
 !.config/nvim/lua
+!.config/nvim/lua/**
 !.config/nvim/init.lua
 
 !.config/bat

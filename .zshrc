@@ -1,5 +1,5 @@
 # zsh-autocompletion
-source ~/.zsh/zsh-autocomple/zsh-autocomplete.plugin.zsh
+source ~/.zsh/zsh-autocomplete/zsh-autocomplete.plugin.zsh
 
 # docker completion
 fpath=(~/.zsh/completion $fpath)

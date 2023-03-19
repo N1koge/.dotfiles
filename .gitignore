@@ -8,6 +8,7 @@
 !.zsh/zsh-autocomplete
 
 !.gitconfig
+!.gitmodules
 
 # .config
 

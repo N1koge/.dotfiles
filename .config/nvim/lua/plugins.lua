@@ -49,6 +49,9 @@ require("packer").startup(function(use)
     tag = "v<CurrentMajor>.*",
     run = "make install"
   })
+  use 'saadparwaiz1/cmp_luasnip'
+
+  use "rafamadriz/friendly-snippets"
 
   use "ray-x/lsp_signature.nvim"
   use {

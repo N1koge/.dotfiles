@@ -16,6 +16,7 @@ require('plug-config.actions-preview');
 require('plug-config.lightbulb');
 require('plug-config.hop');
 require('plug-config.noice');
+require('plug-config.luasnip');
 
 -- colorscheme --
 -- nightfox

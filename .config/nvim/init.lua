@@ -1,7 +1,4 @@
-require("options");
-require("keymaps");
-require("plugins");
-require('configs');
-require('commands');
-require("colorscheme");
-
+require('config.keys')
+require('config.options')
+require('config.autocmds')
+require('config.lazy')
